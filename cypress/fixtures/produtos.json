@@ -1,0 +1,14 @@
+[
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XS", 
+        "cor": "Green",
+        "quantidade": 3
+    },
+    {
+        "nomeProduto": "Aether Gym Pant",
+        "tamanho": "32", 
+        "cor": "Brown",
+        "quantidade": 1
+    }
+]
